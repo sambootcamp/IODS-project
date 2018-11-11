@@ -2,4 +2,4 @@
 # About the project
 
 *Write a short description about the course and add a link to your github repository here. This is an R markdown (.Rmd) file so you can use R markdown syntax. See the 'Useful links' page in the mooc area (chapter 1) for instructions.*
-This chapter is about introducing R and get familiar with how programing languge used to perform different kinds of operations with datas. It introduces about Github, a place to store files, edits and updates ( sync) files, how to create an account and use. It also shows how to download r and R studio.
+This chapter is about introducing R and get familiar with how programing languge used to perform different kinds of operations with datas. It introduces about Github, a place to store files, edits and updates ( sync) files, how to create an account and use. It also shows how to download r and R studio. https://sambootcamp.github.io/IODS-project/
